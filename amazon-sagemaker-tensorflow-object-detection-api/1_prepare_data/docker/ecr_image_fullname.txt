@@ -1,0 +1,1 @@
+198387115458.dkr.ecr.us-east-1.amazonaws.com/tfrecord-processing:latest
